@@ -1,2 +1,1 @@
-# CropCare
-CropCare Project
+# CropCare+: AI, ML & Data-Driven Farming
